@@ -1,0 +1,7 @@
+name: BULiB
+version: '${project.version}'
+main: dev.sv3ks.bulib.BULiB
+api-version: 1.21
+prefix: BULiB
+authors: [ Sv3ks ]
+description: The Ultimate Utility Library for Bukkit/Spigot API
